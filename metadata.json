@@ -1,0 +1,6 @@
+{
+  "name": "Campus School Portal Template",
+  "description": "A premium, holistic academic and sports school portal template featuring rich animations, CBES compliant disclosure, matches fixture boards, and faculty flip grids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
